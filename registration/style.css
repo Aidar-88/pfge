@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    background-image: url(https://techrocks.ru/wp-content/uploads/2018/06/macbook-2617705_1280.jpg);
+    background-size: cover;
+    color: white;
+    width: 1100px;
+    
+}
+.regis{
+    width: 420px;
+    height: 450px;
+    background-color:  rgba(63, 65, 66, 0.9);
+    text-align: center;
+    margin-top: 140px;
+    margin-left: 550px;
+    border: 1px solid rgb(101, 101, 101);
+    display: inline-block;
+}
+.block{
+    text-decoration: none;
+    
+}
+.hr{
+    padding-top: 10px;
+    display: flex;
+    font-size: 28px;
+    color: white;
+}
+input{
+    padding: 8px 12px;
+}
+a{
+    
+    font-size: 20px;
+    color: white;
+    padding: 4px;
+    border: 1px solid white;
+    border-radius: 10px;
+    text-decoration: none;
+}
